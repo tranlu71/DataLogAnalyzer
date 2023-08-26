@@ -1,2 +1,2 @@
-# TestEngineer
-Python scripts created to automate various laborious data analysis process
+# DataLogAnalyzer
+Python scripts created to automate daily laborious data analysis process
