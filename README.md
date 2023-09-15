@@ -13,6 +13,10 @@ At the end of each test treatment (typical 15 minutes long), the system generate
 Need to write a program that enables user to pick the parameter(s) from all of the data files generated that day and generate a summary report. 
 ## Algorithms
 ## How to run the program
+* Unzip the Demo folder
 * Install python3 and clone the repository to your local machine
 * In terminal, navigate to the repository, type "GUIReadHTTLog.py" to run the script
 * Follow the instructions provided by the script
+
+## Disclaimer
+Demo folder contains data files that have been modified and does not reflect real performance of the company product
